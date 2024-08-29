@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'courses',
+    'courses',   # her uygulama ekledikten sonra bu uygulamayı projeye tanıtmak gerekiyor. projenin ismini yazmanız yeterli.
     'pages'
 ]
 
